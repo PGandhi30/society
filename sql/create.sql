@@ -1,0 +1,1 @@
+-- Create Tables for Society Management System
